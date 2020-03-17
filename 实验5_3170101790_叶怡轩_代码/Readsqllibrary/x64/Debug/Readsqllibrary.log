@@ -1,0 +1,128 @@
+﻿  Readsqllibrary.cpp
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“henv”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(15): error C2146: 语法错误: 缺少“;”(在标识符“hdbc1”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(16): error C2146: 语法错误: 缺少“;”(在标识符“hstmt1”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(17): error C2146: 语法错误: 缺少“;”(在标识符“retcode”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): error C2146: 语法错误: 缺少“;”(在标识符“bkyear”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(26): error C2146: 语法错误: 缺少“;”(在标识符“bkbno”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(27): error C2146: 语法错误: 缺少“;”(在标识符“bkprice”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(28): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(28): error C2146: 语法错误: 缺少“;”(在标识符“len_bkyear”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(32): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(32): error C2146: 语法错误: 缺少“;”(在标识符“brmanager_id”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(33): error C2086: “int SQLCHAR”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(26): note: 参见“SQLCHAR”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(33): error C2146: 语法错误: 缺少“;”(在标识符“brcno”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(34): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(34): error C2146: 语法错误: 缺少“;”(在标识符“len_brcno”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(37): error C2086: “int SQLCHAR”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(26): note: 参见“SQLCHAR”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(37): error C2146: 语法错误: 缺少“;”(在标识符“cabno”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(38): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(38): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(38): error C2146: 语法错误: 缺少“;”(在标识符“len_cabno”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(41): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(41): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(41): error C2146: 语法错误: 缺少“;”(在标识符“macode”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(42): error C2086: “int SQLCHAR”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(26): note: 参见“SQLCHAR”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(42): error C2146: 语法错误: 缺少“;”(在标识符“maname”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(43): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(43): error C2086: “int SQLINTEGER”: 重定义
+  c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(25): note: 参见“SQLINTEGER”的声明
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(43): error C2146: 语法错误: 缺少“;”(在标识符“len_maname”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(79): error C2065: “SQLRETURN”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(79): error C2146: 语法错误: 缺少“;”(在标识符“ret”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(79): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(80): error C2146: 语法错误: 缺少“;”(在标识符“henv”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(80): error C2065: “henv”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(81): error C2146: 语法错误: 缺少“;”(在标识符“hdbc”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(81): error C2065: “hdbc”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(82): error C2146: 语法错误: 缺少“;”(在标识符“hstmt”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(82): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(84): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(84): error C2065: “SQL_HANDLE_ENV”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(84): error C2065: “NULL”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(84): error C2065: “henv”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(84): error C3861: “SQLAllocHandle”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “henv”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “SQL_ATTR_ODBC_VERSION”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “SQLPOINTER”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2146: 语法错误: 缺少“)”(在标识符“SQL_OV_ODBC3”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C3861: “SQLSetEnvAttr”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2146: 语法错误: 缺少“;”(在标识符“SQL_OV_ODBC3”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “SQL_OV_ODBC3”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2065: “SQL_IS_INTEGER”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(85): error C2059: 语法错误:“)”
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(86): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(86): error C2065: “SQL_HANDLE_DBC”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(86): error C2065: “henv”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(86): error C2065: “hdbc”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(86): error C3861: “SQLAllocHandle”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(87): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(87): error C2065: “hdbc”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(87): error C2065: “SQLWCHAR”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(87): error C2059: 语法错误:“)”
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(88): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(88): error C2065: “SQL_SUCCESS”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(88): error C2065: “SQL_SUCCESS_WITH_INFO”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(89): error C2065: “cout”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(89): error C2065: “endl”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(91): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(91): error C2065: “SQL_HANDLE_STMT”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(91): error C2065: “hdbc”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(91): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(91): error C3861: “SQLAllocHandle”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(92): error C2146: 语法错误: 缺少“;”(在标识符“sql”的前面)
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(92): error C2065: “sql”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(92): error C2059: 语法错误:“]”
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(93): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(93): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(93): error C3861: “SQLExecute”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(94): error C2065: “ret”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(94): error C2065: “SQL_SUCCESS”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(94): error C2065: “SQL_SUCCESS_WITH_INFO”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(96): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(96): error C3861: “SQLFetch”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(96): error C2065: “SQL_NO_DATA”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(97): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(97): error C2065: “SQL_C_ULONG”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(97): error C2065: “mamanager_id”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(97): error C2065: “len_mamanager_id”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(97): error C3861: “SQLGetData”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(98): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(98): error C2065: “SQL_C_ULONG”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(98): error C2065: “macode”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(98): error C2065: “len_macode”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(98): error C3861: “SQLGetData”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(99): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(99): error C2065: “SQL_C_ULONG”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(99): error C2065: “maname”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(99): error C2065: “len_maname”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(99): error C3861: “SQLGetData”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(100): error C2065: “hstmt”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(100): error C2065: “SQL_C_ULONG”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(100): error C2065: “macontact”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(100): error C2065: “len_macontact”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(100): error C3861: “SQLGetData”: 找不到标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(102): error C2065: “macode”: 未声明的标识符
+c:\users\lenovo\source\repos\readsqllibrary\readsqllibrary\readsqllibrary.cpp(102): fatal error C1003: 错误计数超过 100；正在停止编译
